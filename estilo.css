@@ -8,7 +8,7 @@
    body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #d1e8f3;
+    background-color: #ffffff;
     color: rgb(58, 45, 45);
    }
    /* Estilo do cabeçalho */
@@ -50,8 +50,8 @@
    }
    /* Estilo do rodapé */
    footer {
-    background: #333;
-    color: #fff;
+    background: rgb(62, 71, 51);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 1rem 0;
     position: fixed;
